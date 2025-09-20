@@ -1,0 +1,28 @@
+# lab 2
+jupyter
+jupyterlab
+requests
+
+# lab 3
+numpy
+pandas
+mysql-connector-python
+pymongo
+dnspython
+
+# lab 4
+folktables
+scikit-learn
+matplotlib
+seaborn
+# sklearn
+fairlearn
+
+# lab 6
+ucimlrepo
+scikit-learn
+shap
+
+# lab 7
+datetime
+# calendar
