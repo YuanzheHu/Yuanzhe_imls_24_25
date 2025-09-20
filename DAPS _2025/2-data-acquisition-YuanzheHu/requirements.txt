@@ -1,0 +1,4 @@
+# Fill this file with the packages you need to run the code in the Jupyter Notebook.
+# For example, if you need pandas, write pandas.
+# You can look up the requirements.txt file you created in lab 0-SETUP for reference.
+
